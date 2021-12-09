@@ -1,4 +1,4 @@
-# MeatShop
+# MeatShop :cut_of_meat:
 
 <b>Muhammad Nurifai</b> <br>
 <b>1908107010057</b> <br>
@@ -12,4 +12,7 @@ Penggunaan strategy pattern berawal dari proses pemilihan jenis daging hingga me
 <br><br>
 
 <h2>How To Run</h2>
-<hr>
+1. Clone This Repository <br>
+2. Compile The Code <br>
+3. Run The Program <br>
+4. Enjoy :+1: <br>
